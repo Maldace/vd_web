@@ -7,4 +7,8 @@
 		    <welcome-file>index.jsp</welcome-file>
 		    <welcome-file>home.jsp</welcome-file>
 		</welcome-file-list>
+		
+		<session-config>
+			<tracking-mode>COOKIE</tracking-mode>
+		</session-config>
 </web-app>

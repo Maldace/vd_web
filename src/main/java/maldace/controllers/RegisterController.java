@@ -12,6 +12,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
 import maldace.controllers.users.UserService;
 import maldace.controllers.users.impl.UserServiceImpl;
+import maldace.utils.Constant;
 
 @SuppressWarnings("serial")
 @WebServlet(urlPatterns = "/register")
@@ -81,4 +82,4 @@ public class RegisterController extends HttpServlet {
 
 	}
 	
-}
+
