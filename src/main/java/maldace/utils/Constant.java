@@ -16,7 +16,7 @@ public class Constant {
 			public static final String REGISTER = "/views/register.jsp";
 			public static final String HOME = "/views/web/index.jsp";
 			public static final String DASHBOARD = "/views/admin/login.jsp";
-			public static final String MYACCOUNT = "/views/web/myaccount.jsp";
+//			public static final String MYACCOUNT = "/views/web/myaccount.jsp";
 			
 
 		}
